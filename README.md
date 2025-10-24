@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izaak</h1>
-<h3 align="center">A developer from Britian</h3>
+<h3 align="center">A developer from Britain</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Always+learning+new+things;Love+to+code+and+create" alt="Typing SVG" />
